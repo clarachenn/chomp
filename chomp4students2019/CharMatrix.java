@@ -129,7 +129,6 @@ public class CharMatrix
         //object called matrix, like this:
         
         matrix.display();
-        
     }
     
 }
